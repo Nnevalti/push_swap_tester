@@ -18,5 +18,4 @@ This script will test checker and push_swap multiple times for different range a
 > **-b, --bonus** <br>
 >	Test reverse sorting bonus.
 
-![alt text](https://github.com/Nnevalti/push_swap_tester/blob/master/push_swap_tester.png?raw=true)
-![alt text](https://github.com/Nnevalti/push_swap_tester/blob/master/push_swap_tester1.png?raw=true)
+![Alt text](push_swap_tester.png?raw=true "Screenshot 1")

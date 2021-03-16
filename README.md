@@ -20,4 +20,4 @@ This script will test checker and push_swap multiple times for different range a
 
 ![Alt text](push_swap_tester.png?raw=true "Screenshot 1")
 
-![Alt text](push_swap_tester2.png?raw=true "Screenshot 2")
+![Alt text](push_swap_tester1.png?raw=true "Screenshot 2")

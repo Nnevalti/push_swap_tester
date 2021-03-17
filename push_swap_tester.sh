@@ -3,6 +3,7 @@
 # PATH to push_swap directory
 PS_DIR="./"
 
+# DO NOT TOUCH THIS VARIABLES
 BOLD='\033[1m'
 RED='\033[0;31m'
 GREEN='\033[0;32m'

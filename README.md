@@ -2,7 +2,11 @@
 
 This script will test checker and push_swap multiple times for different range and then display the result of each tested range (number of correct answers, average number moves, minimum and maximum move used to sort the stack). It will generate a random list of numbers for each test.
 
-**Note:** The script worked under Linux Xubuntu (42 VirtualMachine). It doesn't work on MacOS or other Linux distribution. You can always fork the project and adapt it if you want.
+**Note:** The script worked under Linux Xubuntu (42 VirtualMachine) and on the Dump Linux at 42 school Paris. It doesn't work on MacOS. You can always fork the project and adapt it if you want.
+
+Informations:
+Your main should return 0 if everything went well. I use the return value of push_swap main to determine if an error occur during the tests.
+[source](https://www.geeksforgeeks.org/return-0-vs-return-1-in-c/)
 
 ---
 
